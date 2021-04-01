@@ -1,1 +1,1 @@
-# ML_Notebooks
+# Jupyter notebooks from my machine learning course
